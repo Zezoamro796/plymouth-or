@@ -1,0 +1,13 @@
+Resource,Product 1,Product 2,Product 3,Resource Limit
+Flour,1.0,0.5,0.2,80
+Sugar,0.1,0.3,0.1,15
+Butter/Eggs,0.05,0.2,0.05,8
+Oven Hours,0.0,1.0,0.5,40
+Packaging,10.0,20.0,5.0,400
+Labor,5.0,10.0,3.0,480
+Max Product 1,1.0,0.0,0.0,25
+Max Product 2,0.0,1.0,0.0,20
+Max Product 3,0.0,0.0,1.0,15
+Min Product 1,-1.0,0.0,0.0,-8
+Min Product 2,0.0,-1.0,0.0,-10
+Min Product 3,0.0,0.0,-1.0,-5
